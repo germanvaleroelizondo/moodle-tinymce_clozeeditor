@@ -16,7 +16,7 @@
 /**
  * Plugin for Moodle tinymce clozeeditor.
  *
- * @package    tiny_mce
+ * @package    tinymce
  * @subpackage clozeeditor
  * @author  2013 Andreas Glombitza/Achim Skuta
  * @author  2018 Germán Valero/Daniel Thies
