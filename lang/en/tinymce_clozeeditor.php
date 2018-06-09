@@ -17,7 +17,7 @@
 /**
  * Strings for component 'atto_cloze', language 'en'.
 
- * @package    tiny_mce
+ * @package    tinymce
  * @subpackage clozeeditor
  * @copyright  2013 Andreas Glombitza/Achim Skuta
  * @copyright  2018 onwards Germán Valero <gvalero@unam.mx>
