@@ -20,7 +20,7 @@ defined('MOODLE_INTERNAL') || die();
  * Plugin for Moodle tinymce clozeeditor.
  *
  *
- * @package    tiny_mce
+ * @package    tinymce
  * @subpackage clozeeditor
  * @copyright  2013 Andreas Glombitza/Achim Skuta
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
