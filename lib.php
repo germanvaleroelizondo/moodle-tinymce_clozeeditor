@@ -14,17 +14,17 @@
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
-defined('MOODLE_INTERNAL') || die();
-
 /**
  * Plugin for Moodle tinymce clozeeditor.
- *
  *
  * @package    tinymce
  * @subpackage clozeeditor
  * @copyright  2013 Andreas Glombitza/Achim Skuta
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+
+defined('MOODLE_INTERNAL') || die();
+
 class tinymce_clozeeditor extends editor_tinymce_plugin {
     /** @var array list of buttons defined by this plugin */
     protected $buttons = array('clozeeditor');
